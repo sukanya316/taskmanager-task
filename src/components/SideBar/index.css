@@ -1,0 +1,15 @@
+.file-manager-heading{
+    background-color:  #EEF3FA;
+    padding: 5px;
+    
+}
+.sidebar-container{
+    width: 15%;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid lightgray;
+}
+.remove-underline{
+    text-decoration: none;
+}
